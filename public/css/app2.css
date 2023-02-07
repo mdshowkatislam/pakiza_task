@@ -1,0 +1,81 @@
+
+
+
+a {
+        text-decoration: none;
+    }
+
+    .mnc {
+        background: #F1F1F1;
+        margin: 5px;
+        padding: 6px;
+        height: 90px;
+        border-radius: 12px;
+    }
+
+    .vl {
+        border-left: 2px solid darkslategray;
+        margin-left: 12px;
+        margin-right: 12px;
+        height: 400px;
+
+    }
+
+    .distrow {
+        display: inline-flex;
+        margin-left: 50px;
+
+    }
+
+    .unitdist {
+        margin-right: 15px;
+    }
+
+    .p1 {
+        margin-left: 50px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: black;
+        font-size: 14px;
+    }
+
+    .p2 {
+        font-weight: bold;
+        color: black;
+    }
+
+    .flex-parent-element {
+        display: flex;
+        width: 100%;
+    }
+
+    .flex-child-element {
+        flex: 1;
+
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .monthName {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center
+    }
+
+    .quickManu {
+        margin: 8px;
+        padding: 8px;
+        background: #F2F2F2;
+    }
+
+    .quickManu2 {
+        margin: 8px;
+        padding: 8px;
+        background: #F2F2F2;
+    }
